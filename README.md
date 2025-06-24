@@ -1,5 +1,7 @@
 # yazar
 
+README GÜNCELLENECEK
+
 A new Flutter project.
 
 ## Getting Started

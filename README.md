@@ -24,6 +24,7 @@ Shows pages (sub-notes) under the selected title.
 ![Ekran görüntüsü 2024-08-19 171346](https://github.com/user-attachments/assets/7bb8d8cf-8957-4f58-994e-4b261f527515)
 
 
+
 ### Note Detail
 Write and automatically save the content of a selected note page.
 ![Ekran görüntüsü 2024-08-19 171415](https://github.com/user-attachments/assets/b8342188-945f-4e6b-9815-64da12bb5e67)

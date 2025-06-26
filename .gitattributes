@@ -1,0 +1,11 @@
+# Native platform dosyalarını analiz dışında bırak
+*.h linguist-detectable=false
+*.cc linguist-detectable=false
+*.cpp linguist-detectable=false
+*.kt linguist-detectable=false
+*.swift linguist-detectable=false
+*.gradle linguist-detectable=false
+*.cmake linguist-detectable=false
+
+# Dart'ı zorunlu olarak belirle
+lib/** linguist-language=Dart

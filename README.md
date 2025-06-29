@@ -36,9 +36,6 @@ Write and automatically save the content of a selected note page.
 - [sqflite](https://pub.dev/packages/sqflite) – SQLite plugin for Flutter
 - [Path Provider](https://pub.dev/packages/path_provider) – Access to local file paths
 
-## 🚀 Getting Started
-
-To run this project locally:
 
 ```bash
 git clone https://github.com/your-username/flutter-notepad.git
